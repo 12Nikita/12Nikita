@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @12Nikita
+- 👋 Hi, I’m Nikita
 - 
 
 <!---
